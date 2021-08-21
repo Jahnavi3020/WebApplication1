@@ -14,9 +14,9 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public void Add()
         {
-            int i = 10;
-            int j = 20;
-            int k = i + j;
+            //int i = 10;
+            //int j = 20;
+            //int k = i + j;
         }
     }
 }
